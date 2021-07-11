@@ -17,3 +17,5 @@ The patient will receive the link on his/her email account this link would conta
 this link will contain a Qr code, Prescrition List and patients name. 
 The data of each patient is Stored with Doctor Along with date and time and Prescription aswell.
 The above information gives you a brief review that how a user would work with this site, and how do things actually work.
+
+Deployment Link: <a href="https://ph7apharmahelp.netlify.app/">https://ph7apharmahelp.netlify.app/</a>
